@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+pandas
+xlrd
+matplotlib
+seaborn
+scikit-optimize
+gym
